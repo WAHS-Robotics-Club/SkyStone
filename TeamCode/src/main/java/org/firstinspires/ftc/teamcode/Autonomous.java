@@ -8,6 +8,5 @@ public class Autonomous extends LinearOpMode {
 
     @Override
     public void runOpMode() throws InterruptedException {
-
     }
 }
